@@ -62,7 +62,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kaushal-Loya)
 
 ### 📈 GitHub Statistics
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-LoyaE&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=20&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-Loya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=20&hide_border=true" />
 
 ### 🏆 GitHub Trophies
 <img src="https://github-trophies.vercel.app/?username=Kaushal-Loya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
