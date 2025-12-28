@@ -1,76 +1,37 @@
-<h1 style="text-align: center;">👨‍💻 Kaushal Loya</h1>
+## 💫 About Me
 
-<div align="center">
+Hi, I’m **Kaushal Loya**  
+- 🌱 Full Stack Development learner  
+- ⚡ Exploring Machine Learning & Cloud Computing  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kaushal-Loya&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
-</div>
+---
 
-<br clear="right"/>
+## 🌐 Socials
 
-<h1 style="text-align: center;">👨‍💻 Technology Stack</h1>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/priyansh.narang23?igsh=MWpsOTU4OGF3YWU4NQ==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyansh-narang-a9a743307)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/NarangPriyansh)
+[![Leetcode](https://img.shields.io/badge/Leetcode-282828?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/priyanshnarang23/)
 
-<div align="center">
+---
 
-<p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+## 💻 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,redis,prisma,docker,postman,threejs,npm,git,github,vite,vitest,vercel,netlify,vscode&perline=9" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
+---
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
+## 📊 GitHub Stats
 
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Kaushal-Loya&show_icons=true&hide_border=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Kaushal-Loya&hide_border=true&theme=tokyonight)
 
-<p>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+---
 
-</div>
+## 📈 Activity
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kaushal-Loya)
-
-### 📈 GitHub Statistics
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kaushal-Loya&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&border_radius=20&hide_border=true" />
-
-### 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=Kaushal-Loya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushal-Loya&custom_title=Kaushal's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=38bdae&area=true&hide_border=true" />
-
-### 💡 Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaushal-Loya&theme=tokyonight" />
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaushal-Loya&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true)
