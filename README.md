@@ -18,7 +18,7 @@ Hi, I’m **Kaushal Loya**
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,go,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,redis,prisma,docker,postman,threejs,npm,git,github,vite,vitest,vercel,netlify,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,py,html,react,nextjs,tailwind,nodejs,express,mysql,postgres,mongodb,supabase,docker,postman,threejs,npm,git,github,vite,,vercel,netlify,vscode&perline=9" />
 </p>
 
 ---
