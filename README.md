@@ -1,8 +1,7 @@
 ## 💫 About Me
 
 Hi, I’m **Kaushal Loya**  
-- 🌱 Full Stack Development learner  
-- ⚡ Exploring Machine Learning & Cloud Computing  
+- Full Stack Development learner  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kaushal-Loya&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
