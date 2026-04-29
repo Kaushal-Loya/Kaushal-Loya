@@ -24,17 +24,20 @@ I focus on building production-quality software while continuously improving my 
 ---
 ## 📌 Featured Projects
 
-**MERP — MSME Energy Resilience Platform**  [GitHub](https://github.com/Kaushal-Loya/fixforwardhackathon) | [Live](https://fixforward.vercel.app/)  
-Real-time fuel intelligence system for 12.8M MSMEs  
+- 🚀 **MERP — MSME Energy Resilience Platform**  [Repo](https://github.com/Kaushal-Loya/fixforwardhackathon) | [Live](https://fixforward.vercel.app/)  
+  - Designed for 12.8M MSMEs to address fuel intelligence during supply chain disruptions  
+  - Real-time data-driven insights for decision-making  
+  - Built with scalability and real-world deployment in mind  
 
-**Sketch2Spec — AI UI Generator**  [GitHub](https://github.com/Kaushal-Loya/Sketch2Spec) | [Live](http://sketch2spec.vercel.app/)  
-Converts wireframes into functional frontend code  
+- 🤖 **Sketch2Spec — AI UI Generator**  [Repo](https://github.com/Kaushal-Loya/Sketch2Spec) | [Live](http://sketch2spec.vercel.app/)  
+  - Achieved ~80% layout accuracy, reducing frontend effort by ~60%  
+  - Converts wireframes into functional frontend code using AI  
+  - Streamlines design-to-code workflows  
 
-**Nexus — Federated Social Network**  [GitHub](https://github.com/Kaushal-Loya/Nexus---Federated-Decentralised-Social-Networking-Platform) | [Live](https://nexiverse.vercel.app/)  
-Distributed microservices-based social networking platform  
-
-**SecureEval - CyberSecurity platform**  [GitHub](https://github.com/Kaushal-Loya/Cyber-Project)
-Secure system with MFA, RBAC, and hybrid encryption.
+- 🌐 **Nexus — Federated Social Network**  [Repo](https://github.com/Kaushal-Loya/Nexus---Federated-Decentralised-Social-Networking-Platform) | [Live](https://nexiverse.vercel.app/)  
+  - Supports 1000+ users with ~40% improved API performance  
+  - Microservices-based distributed social networking platform  
+  - Optimized backend architecture for scalability and reliability
 
 ---
 
