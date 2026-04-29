@@ -1,7 +1,5 @@
 ##  About Me
 
-## About Me
-
 Hi, I'm Kaushal Loya, a Computer Science undergraduate and Full Stack Developer building scalable web applications and AI-driven systems.
 
 I work across the stack with a strong focus on frontend engineering and system design, aiming to create clean user experiences backed by reliable and efficient architectures.
