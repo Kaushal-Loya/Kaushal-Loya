@@ -33,7 +33,7 @@ Converts wireframes into functional frontend code
 **Nexus — Federated Social Network**  [GitHub](https://github.com/Kaushal-Loya/Nexus---Federated-Decentralised-Social-Networking-Platform) | [Live](https://nexiverse.vercel.app/)  
 Distributed microservices-based social networking platform  
 
-**SecureEval - CyberSecurity platform**  [GitHub](https://github.com/Kaushal-Loya/Cyber-Project))
+**SecureEval - CyberSecurity platform**  [GitHub](https://github.com/Kaushal-Loya/Cyber-Project)
 Secure system with MFA, RBAC, and hybrid encryption.
 
 ---
