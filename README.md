@@ -16,11 +16,6 @@ I focus on building production-quality software while continuously improving my 
 ---
 ##  Featured Projects
 
-- **MERP — MSME Energy Resilience Platform**  [GitHub](https://github.com/Kaushal-Loya/fixforwardhackathon) | [Live](https://fixforward.vercel.app/)  
-  - Designed for 12.8M MSMEs to address fuel intelligence during supply chain disruptions  
-  - Real-time data-driven insights for decision-making  
-  - Built with scalability and real-world deployment in mind  
-
 - **Sketch2Spec — AI UI Generator**  [GitHub](https://github.com/Kaushal-Loya/Sketch2Spec) | [Live](http://sketch2spec.vercel.app/)  
   - Achieved ~80% layout accuracy, reducing frontend effort by ~60%  
   - Converts wireframes into functional frontend code using AI  
